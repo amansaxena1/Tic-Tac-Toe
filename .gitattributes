@@ -3,4 +3,4 @@
 * linguist-vendored
 *.js linguist-detectable=false
 *.java linguist-detectable=false
-*.android linguist-detectable=true
+*chash linguist-detectable=true
